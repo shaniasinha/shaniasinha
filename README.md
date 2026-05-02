@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-See my career history [here](https://github.com/shaniasinha/shaniasinha.github.io/blob/master/SSinha_CV.pdf) ^-^
+See my career history (Academic CV) [here](https://github.com/shaniasinha/shaniasinha.github.io/blob/master/SSinha_CV.pdf) ^-^
